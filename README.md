@@ -2,8 +2,10 @@
 
 This project contains data cleaning steps performed on the Netflix dataset. The goal is to preprocess and clean the data for accurate and efficient analysis.
 
--------  I cleaned this data ussing both MS Excel and Python(Pandas)
+-------  I cleaned this data ussing both MS Excel and Python(Pandas).
+
 Dataset Link- https://www.kaggle.com/datasets/shivamb/netflix-shows/data
+
 ## 🗂 Dataset Overview
 
 The dataset includes information about Netflix titles such as:
